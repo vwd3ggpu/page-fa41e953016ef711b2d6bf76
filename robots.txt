@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.xn--nexitally-459pk42i.com/sitemap.xml
